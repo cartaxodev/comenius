@@ -1,0 +1,19 @@
+{
+  "name": "comenius",
+  "version": "1.0.0",
+  "description": "Comenius is a descentralized platform os online courses deployed on ethereum blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartaxodev/comenius.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartaxodev/comenius/issues"
+  },
+  "homepage": "https://github.com/cartaxodev/comenius#readme"
+}
