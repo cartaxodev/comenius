@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/cartaxodev/comenius/issues"
   },
-  "homepage": "https://github.com/cartaxodev/comenius#readme"
+  "homepage": "https://github.com/cartaxodev/comenius#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "solc": "^0.8.13",
+    "web3": "^1.7.1"
+  }
 }
